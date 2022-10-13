@@ -1,2 +1,2 @@
-This repo contains the source codes and files of "An analysis of the spatial attributes on community mobility changes during COVID-19 pandemic in Istanbul"  paper.
+This repo contains the source codes and files of "Istanbul's Community Mobility Changes During the COVID-19 Pandemic: A Spatial Analysis" study.
 
